@@ -1,0 +1,36 @@
+img{
+    transition:transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+    
+}
+
+
+
+img{
+    transition: transform .2sec;
+    border: 10px solid #AAAAAAAA;
+}
+
+
+
+img {
+width: 175px;
+height: 175px;
+}
+
+body{
+    margin:0;
+    text-align: center;
+}
+
+
+p{
+    max-width: 450px;
+    margin: 25px;
+    font-size: 20px;
+}
+
+
+
